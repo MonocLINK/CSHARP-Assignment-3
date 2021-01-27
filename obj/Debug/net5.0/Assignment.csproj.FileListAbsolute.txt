@@ -1,0 +1,16 @@
+Y:\Documents\wctc\c#\Week 2\Assignment\bin\Debug\net5.0\Assignment.exe
+Y:\Documents\wctc\c#\Week 2\Assignment\bin\Debug\net5.0\Assignment.deps.json
+Y:\Documents\wctc\c#\Week 2\Assignment\bin\Debug\net5.0\Assignment.runtimeconfig.json
+Y:\Documents\wctc\c#\Week 2\Assignment\bin\Debug\net5.0\Assignment.runtimeconfig.dev.json
+Y:\Documents\wctc\c#\Week 2\Assignment\bin\Debug\net5.0\Assignment.dll
+Y:\Documents\wctc\c#\Week 2\Assignment\bin\Debug\net5.0\ref\Assignment.dll
+Y:\Documents\wctc\c#\Week 2\Assignment\bin\Debug\net5.0\Assignment.pdb
+Y:\Documents\wctc\c#\Week 2\Assignment\obj\Debug\net5.0\Assignment.csprojAssemblyReference.cache
+Y:\Documents\wctc\c#\Week 2\Assignment\obj\Debug\net5.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Documents\wctc\c#\Week 2\Assignment\obj\Debug\net5.0\Assignment.AssemblyInfoInputs.cache
+Y:\Documents\wctc\c#\Week 2\Assignment\obj\Debug\net5.0\Assignment.AssemblyInfo.cs
+Y:\Documents\wctc\c#\Week 2\Assignment\obj\Debug\net5.0\Assignment.csproj.CoreCompileInputs.cache
+Y:\Documents\wctc\c#\Week 2\Assignment\obj\Debug\net5.0\Assignment.dll
+Y:\Documents\wctc\c#\Week 2\Assignment\obj\Debug\net5.0\ref\Assignment.dll
+Y:\Documents\wctc\c#\Week 2\Assignment\obj\Debug\net5.0\Assignment.pdb
+Y:\Documents\wctc\c#\Week 2\Assignment\obj\Debug\net5.0\Assignment.genruntimeconfig.cache
