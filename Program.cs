@@ -8,7 +8,7 @@ namespace Assignment
         static void Main(string[] args)
         {
             // comment to run specific part
-            //partA();
+            partA();
             partB(); 
         }
 
